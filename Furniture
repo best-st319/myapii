@@ -1,0 +1,17 @@
+[
+    {
+      "furnitureId": 1,
+      "name": "Carbon Loft Kehlmann Black Metal and Wood Desk",
+      "image":"hinh_1.png",
+      "description":"Create an industrial office space with the contemporary Kehlmann desk from Carbon Loft. The black metal frame features a supportive x-shaped stretcher and a weathered-oak table top.
+        Complete the look with your favorite chair and office accessories.",
+      "categoriesId":1
+    },
+    {
+      "furnitureId": 2,
+      "name": "Furniture of America Tali Contemporary 2-tone Leaning Writing Desk",
+      "image":"hinh_2.png",
+      "description":"Add a serene color palette and handy utility to your hallway or office by choosing this leaning desk. This unexpected piece is ideal for compact spaces",
+      "categoriesId":2
+    }
+  ]
